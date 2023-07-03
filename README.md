@@ -1,6 +1,6 @@
-# Documentação Trabalho
+# Documentação do Trabalho Laravel
 
-A API permite realizar operações básicas de criação, leitura, atualização e exclusão de tarefas.
+A API permite realizar operações básicas de criação, leitura, busca, atualização e exclusão de tarefas.
 
 ## Apresentação
 - Vídeo Apresentando a API: https://youtu.be/J1ldM7vWuso
@@ -18,7 +18,7 @@ A API permite realizar operações básicas de criação, leitura, atualização
 - Método: GET
 - Resposta: Retorna os detalhes de uma tarefa específica com base no ID fornecido.
 - Parâmetros:
-   * id (obrigatório): ID da tarefa)
+   * id (obrigatório): ID da tarefa
 
 ### Criar uma nova tarefa
 
