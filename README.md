@@ -2,6 +2,10 @@
 
 A API permite realizar operações básicas de criação, leitura, atualização e exclusão de tarefas.
 
+## Apresentação
+- Apresentação da API: https://www.youtube.com/watch?v=yNSZjG3R3kw
+- Mostrando a API funcionando: https://www.youtube.com/watch?v=FCCdM9AJXTE
+
 ### Listar todas as tarefas
 
 - Endpoint: /Tasktrabalho
