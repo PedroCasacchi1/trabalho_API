@@ -51,9 +51,9 @@ A API permite realizar operações básicas de criação, leitura, atualização
 
 ### Ferramentas
 
-Ferramenta de testes de API: Postman, para realizar as requisições e verificar as respostas da API.
-Ferramentas de codificação de API: Visual Studio Code, Prompt de Comando
-Outras ferramentas: XAMPP
+- Ferramenta de testes de API: Postman, para realizar as requisições e verificar as respostas da API.
+- Ferramentas de codificação de API: Visual Studio Code, Prompt de Comando
+- Outras ferramentas: XAMPP
 
 
 
