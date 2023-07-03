@@ -3,8 +3,8 @@
 A API permite realizar operações básicas de criação, leitura, atualização e exclusão de tarefas.
 
 ## Apresentação
-- Apresentação da API: https://www.youtube.com/watch?v=yNSZjG3R3kw
-- Mostrando a API funcionando: https://www.youtube.com/watch?v=FCCdM9AJXTE
+- Vídeo Apresentando a API: https://youtu.be/J1ldM7vWuso
+- Vídeo Mostrando a API funcionando: https://youtu.be/nJNl_KjVC7c
 
 ### Listar todas as tarefas
 
